@@ -1,3 +1,8 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+/* Aquí se pueden añadir clases css
+ .muy-grande{
+    font-size: 3rem;
+} */
